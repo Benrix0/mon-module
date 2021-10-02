@@ -11,9 +11,9 @@ setuptools.setup(
     description="Mon module avec quelques objets et fonction utiles",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/Benrix0/mon-module",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/Benrix0/mon-module/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",

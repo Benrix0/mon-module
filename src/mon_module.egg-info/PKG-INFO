@@ -2,11 +2,11 @@ Metadata-Version: 2.1
 Name: mon-module
 Version: 0.0.1
 Summary: Mon module avec quelques objets et fonction utiles
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/Benrix0/mon-module
 Author: Benrix0
 Author-email: benrix00@gmail.com
 License: UNKNOWN
-Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Project-URL: Bug Tracker, https://github.com/Benrix0/mon-module/issues
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

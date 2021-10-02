@@ -1,5 +1,5 @@
-# Example Package
+# Mon module
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+Ceci est un module que j'ais créer
+
+[Page pypi](https://pypi.org/project/mon-module/0.0.1/)
