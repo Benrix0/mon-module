@@ -1,4 +1,4 @@
-# Example Package
+# Mon module
 
 Ceci est un module que j'ais créer
 
